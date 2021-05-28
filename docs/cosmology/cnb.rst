@@ -1,4 +1,4 @@
-.. index:: Cosmic Neutrino Background
+ .. index:: Cosmic Neutrino Background
 .. index:: CNB
 
 Cosmic Neutrino Background
